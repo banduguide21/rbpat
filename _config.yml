@@ -1,0 +1,10 @@
+# Activate the Jekyll Minimal theme
+remote_theme: pages-themes/minimal@v0.2.0
+
+# Basic site settings
+title: My Personal Portfolio
+description: A description of my projects, skills, and contact info.
+
+# GitHub Pages setup (optional, but good practice)
+plugins:
+- jekyll-remote-theme
