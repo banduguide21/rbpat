@@ -15,4 +15,4 @@ This is where I'll put my professional biography, links to my social media, and 
 
 ---
 
-[Check out my GitHub Profile!](https://github.com/banduguide21)
+[Check out my GitHub Profile!](https://banduguide21.github.io/rbpat/)
